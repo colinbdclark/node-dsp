@@ -1,6 +1,6 @@
 {
   'targets': [{
-    'target_name': 'node-dsp',
+    'target_name': 'dsp',
     'sources': [
       'src/module.cpp',
       'src/dsp.cpp',

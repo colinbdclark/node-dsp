@@ -1,8 +1,8 @@
 {
   "name": "dsp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A node implementation of the DSP API.",
-  "main": "./build/Release/node-dsp",
+  "main": "./build/Release/dsp",
   "scripts": {
     "test": "mocha --compilers coffee:coffee-script -R spec"
   },
@@ -14,7 +14,7 @@
     "DSP"
   ],
   "engines": {
-    "node": "0.8.x"
+    "node": "0.10.x"
   },
   "devDependencies": {
     "mocha": "1.7.x",

@@ -3,6 +3,7 @@
 #include <time.h>
 #include <vector>
 #include <limits>
+#include <cstring>
 
 #include "dsp.h"
 #include "common.h"
