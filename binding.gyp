@@ -1,6 +1,6 @@
 {
   'targets': [{
-    'target_name': 'dsp',
+    'target_name': 'dspapi',
     'sources': [
       'src/module.cpp',
       'src/dsp.cpp',

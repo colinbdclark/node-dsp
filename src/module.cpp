@@ -23,4 +23,4 @@ void Initialize(Handle<Object> exports) {
     NodeFFT::Initialize(exports);
 }
 
-NODE_MODULE(dsp, Initialize)
+NODE_MODULE(dspapi, Initialize)
