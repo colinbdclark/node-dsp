@@ -1,5 +1,5 @@
 {
-  "name": "dsp",
+  "name": "dspapi",
   "version": "0.0.3",
   "description": "A node implementation of the DSP API.",
   "main": "./build/Release/dspapi",
